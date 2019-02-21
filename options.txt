@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\nselv\Documents\VuGen\Scripts\odooAppln_TruClient1
+-IE:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\nselv\documents\vugen\scripts\odooappln_truclient1\\logfile.log
+c:\users\nselv\documents\vugen\scripts\odooappln_truclient1\\combined_odooAppln_TruClient1.c
+c:\users\nselv\documents\vugen\scripts\odooappln_truclient1\\pre_cci.c
